@@ -86,7 +86,7 @@ Each team should organize their submissions in the following folder structure:
 
 ### Submission Process
 **Clone the Repository:**
-git clone https://github.com/ibm-ice/TechSprint_Submissions.git
+git clone https://github.com/ibm-ice/Hackathon_Submissions.git
 ```
 2. Create a New Branch:
 Create your branch using the following command:
